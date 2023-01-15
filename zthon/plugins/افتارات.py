@@ -1,5 +1,5 @@
-#𝙕𝙚𝙙𝙏𝙝𝙤𝙣 ®
-#الملـف حقـوق وكتابـة زلـزال الهيبـه ⤶ @zzzzl1l خاص بسـورس ⤶ 𝙕𝙚𝙙𝙏𝙝𝙤𝙣
+#𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪 ®
+#الملـف حقـوق وكتابـة  𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪 ⤶ @ALAPATH خاص بسـورس ⤶ 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪
 
 
 import asyncio
@@ -284,7 +284,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(ZTHONR),
-            caption=f"** 🎬┊رياكشـن تحشيـش ➧🎃😹◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"** 🎬┊رياكشـن تحشيـش ➧🎃😹◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -305,7 +305,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(ZTHONR),
-            caption=f"**🎬┊مقاطـع ايـدت منوعـه ➧ 🖤🎭◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**🎬┊مقاطـع ايـدت منوعـه ➧ 🖤🎭◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -326,7 +326,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedgan),
-            caption=f"**✦┊تم اختياࢪ الاغنيـه لك 💞🎶**ٴ▁ ▂ ▉ ▄ ▅ ▆ ▇ ▅ ▆ ▇ █ ▉ ▂ ▁\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**✦┊تم اختياࢪ الاغنيـه لك 💞🎶**ٴ▁ ▂ ▉ ▄ ▅ ▆ ▇ ▅ ▆ ▇ █ ▉ ▂ ▁\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -347,7 +347,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedgan),
-            caption=f"**✦┊تم اختيـار مقطـع الشعـر هـذا لك**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**✦┊تم اختيـار مقطـع الشعـر هـذا لك**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -368,7 +368,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedgan),
-            caption=f"**✦┊تم اختيـار مقطـع الميمـز هـذا لك**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**✦┊تم اختيـار مقطـع الميمـز هـذا لك**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -389,7 +389,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedre),
-            caption=f"**🎆┊رياكشـن تحشيـش ➧🎃😹◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**🎆┊رياكشـن تحشيـش ➧🎃😹◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -410,7 +410,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedph),
-            caption=f"**🎆┊صـورة ومعلومـة ➧ 🛤💡◟**\n\n[➧??𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**🎆┊صـورة ومعلومـة ➧ 🛤💡◟**\n\n[➧??𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -431,7 +431,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedre),
-            caption=f"**✦┊كـت تـويت بالصـور ➧⁉️🌉◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**✦┊كـت تـويت بالصـور ➧⁉️🌉◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
@@ -452,7 +452,7 @@ async def _(event):
         await event.client.send_file(
             event.chat_id,
             file=random.choice(zedph),
-            caption=f"**✦┊لـو خيـروك  ➧⁉️🌉◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𝙕𝙚𝙙𝙏𝙝𝙤𝙣](https://t.me/ZedThon)",
+            caption=f"**✦┊لـو خيـروك  ➧⁉️🌉◟**\n\n[➧𝙎𝙤𝙪𝙧𝙘𝙚 𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪](https://t.me/ALAPATH)",
         )
         await zzevent.delete()
     except Exception:
