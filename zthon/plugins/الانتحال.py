@@ -13,8 +13,7 @@ DEFAULTUSER = gvarstatus("FIRST_NAME") or ALIVE_NAME
 DEFAULTUSERBIO = (
     gvarstatus("DEFAULT_BIO") or "- ‏
 
-░ 𓆩 نحن ڪـ الفرص لا نأتي مرتين 𓆪 𓃬 "
-)
+✞ @Sh_1R5✞ @ioewoi✞ @CASBAR_1BoT @M_O_CHA ✞ @N_igv✞ @AM_P_U_T_I_N✞ "
 
 
 @zedub.zed_cmd(
