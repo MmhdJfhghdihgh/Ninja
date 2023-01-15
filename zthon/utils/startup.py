@@ -82,8 +82,8 @@ async def startupmessage():
             Config.ZEDUBLOGO = await zedub.tgbot.send_file(
                 BOTLOG_CHATID,
                 "https://telegra.ph/file/f821d27af168206b472ad.mp4",
-                caption="**•⎆┊تـم بـدء تشغـيل سـورس زدثــون الخاص بك .. بنجاح 🧸♥️**",
-                buttons=[(Button.url("𝙕𝙀𝘿𝙏𝙝𝙤𝙣𓅛", "https://t.me/ZedThon"),)],
+                caption="**•⎆┊تـم بـدء تشغـيل سـورس 𝘼𝙇𝘼𝙋𝘼𝙏𝙃 الخاص بك .. بنجاح 🧸♥️**",
+                buttons=[(Button.url("𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓅛", "https://t.me/ALAPATH"),)],
             )
     except Exception as e:
         LOGS.error(e)
@@ -131,7 +131,7 @@ async def mybot():
             await asyncio.sleep(1)
             await bot.send_message("@BotFather", botname)
             await asyncio.sleep(1)
-            await bot.send_message("@BotFather", "ZThon")
+            await bot.send_message("@BotFather", "ALAPATH")
             await asyncio.sleep(3)
             await bot.send_message("@BotFather", "/setname")
             await asyncio.sleep(1)
@@ -149,13 +149,13 @@ async def mybot():
             await asyncio.sleep(1)
             await bot.send_message("@BotFather", botname)
             await asyncio.sleep(1)
-            await bot.send_message("@BotFather", f"- بـوت زدثــون المسـاعـد ♥️🦾 الخـاص بـ  {bot.me.first_name} ")
+            await bot.send_message("@BotFather", f"- بـوت ALAPATH المسـاعـد ♥️🦾 الخـاص بـ  {bot.me.first_name} ")
             await asyncio.sleep(3)
             await bot.send_message("@BotFather", "/setdescription")
             await asyncio.sleep(1)
             await bot.send_message("@BotFather", botname)
             await asyncio.sleep(1)
-            await bot.send_message("@BotFather", f"•⎆┊انـا البــوت المسـاعـد الخــاص بـ {zel_zal} \n•⎆┊بـواسطـتـي يمكـنك التواصــل مـع مـالكـي 🧸♥️\n•⎆┊قنـاة السـورس 🌐 @ZedThon 🌐")
+            await bot.send_message("@BotFather", f"•⎆┊انـا البــوت المسـاعـد الخــاص بـ {𓆩𓅃𝘼𝙇𝘼𝙋𝘼𝙏𝙃𓃠𓆪} \n•⎆┊بـواسطـتـي يمكـنك التواصــل مـع مـالكـي 🧸♥️\n•⎆┊مطور السورس 🌐 @ALAPATH 🌐")
         except Exception as e:
             print(e)
 
@@ -279,7 +279,7 @@ async def verifyLoggerGroup():
             )
     else:
         descript = "لا تقم بحذف هذه المجموعة أو التغيير إلى مجموعة عامه (وظيفتهـا تخزيـن كـل سجـلات وعمليـات البـوت.)"
-        photozed = await zedub.upload_file(file="zedthon/malath/Zpic.jpg")
+        photozed = await zedub.upload_file(file=g"@ALAPATH")
         _, groupid = await create_supergroup(
             "كـروب السجـل زدثـــون", zedub, Config.TG_BOT_USERNAME, descript, photozed
         )
@@ -308,7 +308,7 @@ async def verifyLoggerGroup():
             LOGS.error("حدث خطأ اثناء التعرف على فار PM_LOGGER_GROUP_ID.\n" + str(e))
     else:
         descript = "لا تقم بحذف هذه المجموعة أو التغيير إلى مجموعة عامه (وظيفتهـا تخزيـن رسـائل الخـاص.)"
-        photozed = await zedub.upload_file(file="zedthon/malath/Apic.jpg")
+        photozed = await zedub.upload_file(file="@ALAPATH")
         _, groupid = await create_supergroup(
             "كـروب التخـزين", zedub, Config.TG_BOT_USERNAME, descript, photozed
         )
