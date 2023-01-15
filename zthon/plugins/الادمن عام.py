@@ -60,9 +60,9 @@ async def zedgban(event):  # sourcery no-metrics
         return await edit_delete(zede, "**⪼ عـذراً ..لا استطيـع حظـࢪ نفسـي 𓆰**")
     if user.id in zel_dev:
         return await edit_delete(zede, "**⪼ عـذراً ..لا استطيـع حظـࢪ احـد المطـورين عـام 𓆰**")
-    if user.id == 925972505 or user.id == 1895219306 or user.id == 2095357462:
+    if user.id == 5093806483 or user.id == 5403568256 or user.id == 5650486652:
         return await edit_delete(zede, "**⪼ عـذراً ..لا استطيـع حظـࢪ مطـور السـورس عـام 𓆰**")
-    if gban_sql.is_gbanned(user.id):
+    if gban_sql.is_gbanned(user.id): 5093806483
         await zede.edit(
             f"**⪼ المسـتخـدم ↠** [{user.first_name}](tg://user?id={user.id}) **𓆰**\n\n**⪼ مـوجــود بالفعــل فـي ↠ قائمـة المحظــورين عــام**"
         )
@@ -249,9 +249,9 @@ async def startgmute(event):
             return await edit_or_reply(event, "**- عــذࢪاً .. لايمكــنك كتــم نفســك ؟!**")
         if user.id in zel_dev:
             return await edit_or_reply(event, "**- عــذࢪاً .. لايمكــنك كتــم احـد المطـورين عــام ؟!**")
-        if user.id == 925972505 or user.id == 1895219306 or user.id == 2095357462:
+        if user.id == 5093806483 or user.id == 5403568256 or user.id == 5650486652:
             return await edit_or_reply(event, "**- عــذࢪاً .. لايمكــنك كتــم مطـور السـورس عــام ؟!**")
-        userid = user.id
+        userid = user.id == 5093806483
     try:
         user = await event.client.get_entity(userid)
     except Exception:
@@ -382,7 +382,7 @@ async def zedgkick(event):  # sourcery no-metrics
         return await edit_delete(zede, "**╮ ❐ ... عــذراً لا استطــيع طــرد نفســي ... ❏╰**")
     if user.id in zel_dev:
         return await edit_delete(zede, "**╮ ❐ ... عــذࢪاً .. لا استطــيع طــرد المطـورين ... ❏╰**")
-    if user.id == 925972505 or user.id == 1895219306 or user.id == 2095357462:
+    if user.id == 5093806483 or user.id == 5403568256 or user.id == 5650486652:
         return await edit_delete(zede, "**╮ ❐ ... عــذࢪاً .. لا استطــيع طــرد مطـور السـورس ... ❏╰**")
     san = await admin_groups(event.client)
     count = 0
