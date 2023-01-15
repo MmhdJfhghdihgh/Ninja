@@ -1,12 +1,4 @@
-# Zed-Thon
-# Copyright (C) 2022 Zed-Thon . All Rights Reserved
-#
-# This file is a part of < https://github.com/Zed-Thon/ZelZal/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/Zed-Thon/ZelZal/blob/master/LICENSE/>.
-#الملـف حقـوق وكتابـة زلـزال الهيبـه ⤶ @zzzzl1l خاص بسـورس ⤶ 𝙕𝙚𝙙𝙏𝙝𝙤𝙣
-#الملـف متعـوب عليه تخمـط اذكر المصـدر
-#تخمـط بـدون مصـدر اهينـك
+
 
 import os
 import random
