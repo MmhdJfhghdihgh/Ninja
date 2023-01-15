@@ -93,7 +93,7 @@ async def get_users(event):
     await eva.edit(
         "**╮  حـالة الإضافـه :**\n\n**╮  جـاري جـمع معـلومات الاعضـاء ...⏳**"
     )
-    async for user in event.client.iter_participants( ZEDTHON.full_chat.id):
+    async for user in event.client.iter_participants( ALAPATH.full_chat.id):
         try:
             if error.startswith("Too"):
                 return (
