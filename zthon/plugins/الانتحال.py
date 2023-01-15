@@ -11,7 +11,9 @@ from . import ALIVE_NAME, BOTLOG, BOTLOG_CHATID, zedub, edit_delete, get_user_fr
 plugin_category = "العروض"
 DEFAULTUSER = gvarstatus("FIRST_NAME") or ALIVE_NAME
 DEFAULTUSERBIO = (
-    gvarstatus("DEFAULT_BIO") or "- ‏وحدي أضيء، وحدي أنطفئ انا قمري و كُل نجومي..🤍"
+    gvarstatus("DEFAULT_BIO") or "- ‏
+
+░ 𓆩 نحن ڪـ الفرص لا نأتي مرتين 𓆪 𓃬 "
 )
 
 
