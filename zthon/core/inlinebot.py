@@ -11,7 +11,7 @@ from telethon.errors import QueryIdInvalidError
 from telethon.events import CallbackQuery, InlineQuery
 from youtubesearchpython import VideosSearch
 
-from zthon import zedub
+from ALAPATH import ALAPATH
 
 from ..assistant.inlinefm import get_manager
 from ..Config import Config
